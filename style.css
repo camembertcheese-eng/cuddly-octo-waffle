@@ -1,0 +1,22 @@
+
+p{
+    color: rgb(89, 0, 255);
+}
+.gdsc{
+    color: rgb(255, 0, 0);
+}
+#ko{
+    color:rgb(0, 255, 34)
+}
+.container{
+    background-color: rgb(125, 199, 211);
+    padding: 10px;
+}
+.ichiban{
+    padding: 10px;
+    background-color: red;
+}
+.niban{
+    margin: 10px;
+    background-color: yellow;
+}
